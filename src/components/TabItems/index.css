@@ -1,0 +1,11 @@
+.tabs {
+  list-style-type: none;
+  color: gold;
+}
+.tab-name {
+  color: goldenrod;
+  margin-left: 10px;
+}
+.underline-text {
+  text-decoration: underline gold 3px;
+}

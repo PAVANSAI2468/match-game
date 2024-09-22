@@ -1,0 +1,76 @@
+.tabslist {
+  display: flex;
+  color: gold;
+}
+
+.cardImg {
+  height: 40vh;
+}
+
+.main-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.score {
+  color: goldenrod;
+}
+
+.bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+  background-size: cover;
+  height: 100vh;
+}
+
+.navbar {
+  background-color: #2c0e3a;
+  height: 50px;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 40px;
+  margin-left: 20px;
+}
+
+.timer {
+  height: 35px;
+}
+
+.timer-container {
+  display: flex;
+  gap: 5px;
+  color: gold;
+  margin-top: 3px;
+  align-self: center;
+}
+
+.image-list ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40vw;
+  flex-wrap: wrap;
+}
+
+.image-list li {
+  list-style-type: none;
+  margin-right: 10px;
+}
+
+.tumbnailimages {
+  height: 80px;
+}
+
+.images-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
